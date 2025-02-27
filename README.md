@@ -15,6 +15,6 @@ Key findings:
 
 This project helped me in showcasing my visualisation skills, dashboard designing and unlocking key insights.
 
-#Dasboard
+# Dashboard
 ![Screenshot 2025-02-26 191534](https://github.com/user-attachments/assets/e37b8db7-4519-4b84-8e33-0a1e99373116)
 
